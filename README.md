@@ -84,6 +84,7 @@ Confusion Matrix:
 Classification Report:
               precision  recall  f1-score
       0          0.79     0.85     0.82
+
       1          0.89     0.84     0.86
 
 
